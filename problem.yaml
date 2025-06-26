@@ -1,0 +1,18 @@
+name: What The Crypto
+description: |
+  뭐어어어ㅓ? 누가 나한테 그러던데
+  뭐라했더라? 기억이 안나넹 ㅎ
+  이거만 풀면 알 수 있다는 것임!
+category: Crypto
+value: 100
+type: standard
+files:
+  - challenge/mystery.enc
+  - challenge/seed.txt
+flags:
+  - CDNS{WHAT_THE_MY_FIRST_CRYPTO!!!_LOL}
+tags:
+  - crypto
+  - beginner
+authors:
+  - 노지완
